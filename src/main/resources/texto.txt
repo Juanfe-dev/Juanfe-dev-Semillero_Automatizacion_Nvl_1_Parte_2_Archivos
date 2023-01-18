@@ -1,0 +1,13 @@
+VENTAJAS DE LA PROGRAMACIÓN ORIENTADA A OBJETOS
+
+    1. Fomenta la reutilización y ampliación del código.
+    2. Permite crear sistemas más complejos.
+    3. La programación se asemeja al mundo real.
+    4. Agiliza el desarrollo de software.
+    5. Facilita el trabajo en equipo.
+    6. Lo interesante de la POO es que proporciona conceptos y herramientas con las cuales se modela y representa el mundo real tan fielmente como sea posible.
+
+Para entender este modelo vamos a revisar 2 conceptos fundamentales:
+
+clases
+objetos
